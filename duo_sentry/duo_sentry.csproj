@@ -4,7 +4,7 @@
     <AssemblyName>duo_sentry</AssemblyName>
     <Description>
     </Description>
-    <Version>0.1.2</Version>
+    <Version>1.0.0</Version>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <LangVersion>latest</LangVersion>
     <RestoreAdditionalProjectSources>
@@ -13,7 +13,7 @@
       https://nuget.samboy.dev/v3/index.json
     </RestoreAdditionalProjectSources>
     <RootNamespace>duo_sentry</RootNamespace>
-    <AssemblyTitle>Allows the Lone Sentry ship loadout to be used by two players without the power-usage penalty.</AssemblyTitle>
+    <AssemblyTitle>Allows the Lone Sentry loadout on the Destroyer to be used by two players without the power-usage penalty.</AssemblyTitle>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DebugType>embedded</DebugType>

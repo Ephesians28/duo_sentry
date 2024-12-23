@@ -4,9 +4,9 @@
 
 # Duo Sentry
 
-Version 0.1.2  
+Version 1.0.0  
 For Game Version 1.0.3  
-Developed by PyroWithaPen  
+Developed by PyroWithaPen, Dragon  
 Requires:  BepInEx-BepInExPack-5.4.2100, VoidCrewModdingTeam-VoidManager-1.2.5
 
 
@@ -14,26 +14,18 @@ Requires:  BepInEx-BepInExPack-5.4.2100, VoidCrewModdingTeam-VoidManager-1.2.5
 
 ### 💡 Function(s)
 
-- Allows the Lone Sentry ship loadout to be used by two players without the power-usage penalty.
+- Allows the Lone Sentry loadout on the Destroyer to be used by two players without the power-usage penalty.
 
 ### 🎮 Client Usage
 
-- 
+- Simply install.
 
 ### 👥 Multiplayer Functionality
 
-# Note to mod developer: Remove all but those which match, and describe any custom functionality.
-- ✅ Client
-  - Only the client needs this mod.
 - ✅ Host
   - Only the host needs this mod.
 - ✅ Session
-  - Requires the room to be marked as Mod_Session for functionality.
-  - Requires the room to be marked as Mod_Session for joining.
-  - Marks the room as Mod_Session when starting session as host.
   - Marks the room as Mod_Session when hosting.
-- ✅ All
-  - All players must have this mod installed.
 
 ---------------------
 
